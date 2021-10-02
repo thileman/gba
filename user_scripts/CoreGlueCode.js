@@ -69,6 +69,7 @@ var games = {
     "pokemonflorasky":"Pokemon Flora Sky Rom Hack",
     "pokemonemerald":"Pokemon Emerald",
     "pokemonglazed":"Pokemon Glazed",
+    "pokemonmoemon":"Pokemon Moemon",
     "pokemongreen":"Pokemon Leaf Green",
     "mysteryred":"Pokemon Mystery Dungeon Red",
     "pokemonruby":"Pokemon Ruby",
